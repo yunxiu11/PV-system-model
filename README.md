@@ -1,4 +1,4 @@
-# PV-system-model
+[English](./README_EN.md) | 简体中文
 # 光伏系统性能与 MPPT 仿真研究
 
 本仓库用于整理本人研究项目中使用的 **MATLAB/Simulink 仿真模型** 与 **PVsyst 仿真数据**。研究主要围绕光伏系统的 **组件朝向、遮挡影响、能量效率以及最大功率点跟踪（MPPT）** 展开。
