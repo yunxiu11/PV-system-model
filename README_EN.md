@@ -1,3 +1,4 @@
+English | [简体中文](./README.md)
 # Solar PV Performance and MPPT Simulation
 
 This repository contains the simulation models and supporting data developed for my research project on **photovoltaic (PV) system performance**, with a focus on **panel orientation, shading impacts, and maximum power point tracking (MPPT)**.
